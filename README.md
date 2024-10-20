@@ -3,7 +3,8 @@ Implementation of "Real-Time Reinforcement Learning for Optimal Viewpoint Select
 This repository contains code for producing results of our NBV selection model following our experimental setup on the [CMU Panoptic dataset](https://github.com/CMU-Perceptual-Computing-Lab/panoptic-toolbox).
 
 ### Overview of Our NBV Selection Model
-![image](https://github.com/hyeon0819/NBV-PoseRL/assets/153258272/4fc2ebb8-006a-491e-befd-cabb0709fdfa)
+![image](https://github.com/user-attachments/assets/61fdaac1-0cab-4de1-9c5d-31fc6098b2b3)
+
 
 
 ### Setup
@@ -32,4 +33,4 @@ This repository contains code for producing results of our NBV selection model f
 
 
 ### Visual Results of Our Method
-![image](https://github.com/hyeon0819/NBV-PoseRL/assets/153258272/ca0c3f9d-0d31-4cd8-ac52-1c1481f9bb33)
+![image](https://github.com/user-attachments/assets/c600182f-5acd-4d46-85c3-5c36c7ed70b4)
