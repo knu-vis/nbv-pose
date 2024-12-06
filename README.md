@@ -1,6 +1,7 @@
 # NBV-PoseRL
 
 This is the official implementation of IEEE Access paper "Real-Time Reinforcement Learning for Optimal Viewpoint Selection in Monocular 3D Human Pose Estimation", Sanghyeon Lee, Yoonho Hwang, and Jong Taek Lee.
+
 This repository contains code for producing results of our NBV selection model following our experimental setup on the [CMU Panoptic dataset](https://github.com/CMU-Perceptual-Computing-Lab/panoptic-toolbox).
 
 ### Overview of Our NBV Selection Model
