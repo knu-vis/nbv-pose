@@ -33,13 +33,12 @@ This repository contains code for producing results of our NBV selection model f
    python run/ddpg_test.py --cfg experiments/panoptic_hd/hd.yaml 
    ```
 
----
 ### Visual Results of Our Method
 ![image](https://github.com/user-attachments/assets/c600182f-5acd-4d46-85c3-5c36c7ed70b4)
 
 ![github_video](https://github.com/user-attachments/assets/da6f6971-46c1-4e29-8532-ea9eb7370cdf)
 
----
+
 ## Citation
 If you use our code or models in your research, please cite with:
 ```
